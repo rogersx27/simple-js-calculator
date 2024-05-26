@@ -13,7 +13,7 @@ Esta es una calculadora implementada en JavaScript que proporciona tres modos de
 1. Clona el repositorio a tu máquina local:
 
     ```[git]
-    git clone https://github.com/tu-usuario/calculadora-javascript.git
+    git clone https://github.com/rogersx27/simple-js-calculator.git
     ```
 
 2. Abre el archivo `index.html` en tu navegador web.
